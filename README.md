@@ -1,21 +1,42 @@
-# Dynamic Form with React, TypeScript & Zod
+# 🚀 My First TypeScript Project
 
-This project is my **first React application using TypeScript**.  
-It features a dynamic form that renders fields conditionally based on props, and validates them using **Zod schema validation** along with **React Hook Form**.
+This project is my **first application built with TypeScript**!  
+It's a simple and clean frontend form that uses:
 
-### ✨ Features:
-- Conditional rendering for input fields (`fullname` and `email`)
-- Schema-based form validation with Zod
-- Type-safe form handling using TypeScript
-- Clean and responsive UI using Tailwind CSS
-- Automatic reset after successful submission
+- 🌐 **React**
+- 🎨 **Tailwind CSS**
+- 🧠 **React Hook Form**
+- 🛡️ **Zod** for validation
+- 💙 TypeScript (for the first time 🎉)
 
-### 🛠️ Technologies Used:
-- React
-- TypeScript
-- React Hook Form
-- Zod & @hookform/resolvers
-- Tailwind CSS
+## 📦 Tech Stack
+
+- **Framework**: React (with Vite)
+- **Styling**: Tailwind CSS
+- **Form Handling**: React Hook Form
+- **Validation**: Zod
+- **Language**: TypeScript
+- **Icons**: SVG manually embedded
+
+## 📚 What I Learned
+
+- Basics of **TypeScript** in React
+- How to use **types** and **interfaces**
+- Form validation using **Zod** with `react-hook-form`
+- Styling and layout with **Tailwind CSS**
+- Organizing clean and readable component structures
+
+## 🔧 How to Run
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-repo-name
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
 
 ---
 

@@ -2,3 +2,11 @@
 body {
   font-family: 'Poppins', sans-serif;
 }
+html, body {
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(to bottom right, #152436, #122337, #143c6c);
+  background-attachment: fixed; 
+  color: white; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
